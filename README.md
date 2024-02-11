@@ -1,6 +1,6 @@
 # PyTorch MNIST Dataset Exploration and Analysis
 
-Welcome to the PyTorch MNIST Dataset Exploration and Analysis repository! This project is dedicated to working with the MNIST dataset using PyTorch, a widely-used deep learning framework. MNIST is a benchmark dataset in machine learning and computer vision, comprising 60,000 training images and 10,000 testing images of handwritten digits (0 through 9).
+Welcome to the PyTorch MNIST Dataset Exploration and Analysis repository! This project is dedicated to working with the MNIST dataset using PyTorch, a widely-used deep learning framework. MNIST is a benchmark dataset in machine learning and computer vision, comprising 60,000 training images of handwritten digits (0 through 9).
 
 ## Project Overview
 
